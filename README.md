@@ -1,7 +1,16 @@
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
+ 
+ 
+ <div>
+  <p>NextJS</p>
+  <div> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
+  </div>
+ </div>
+ 
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
