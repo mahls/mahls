@@ -7,7 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
- 
+ <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards" alt="My Tech Stack" />
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tennisbun&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
