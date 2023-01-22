@@ -1,13 +1,12 @@
 <div>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="32" height="32"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="32" height="32"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tennisbun&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
