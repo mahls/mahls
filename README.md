@@ -1,5 +1,5 @@
 <div>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
