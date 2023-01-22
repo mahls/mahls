@@ -1,3 +1,8 @@
+
+
+
+<!--
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
@@ -13,17 +18,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tennisbun&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 
-
-<!--
-
-https://shields.io/
-https://github.com/0l1v3rr/github-readme-tech-stack
+for badges like social media use https://shields.io/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tennisbun&bg_color=000000&text_color=fffefe&title_color=4bd011)](https://github.com/anuraghazra/github-readme-stats)
 
  <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
